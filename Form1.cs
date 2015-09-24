@@ -13,7 +13,7 @@ namespace WavToMP3
         public Form1()
         {
             InitializeComponent();
-            comboBox1.SelectedIndex = 0;
+            comboBoxBitRate.SelectedIndex = 0;
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -22,7 +22,7 @@ namespace WavToMP3
             {
                 string directoryName;
 
-                button1.Enabled = false;
+                buttonSelectDirectory.Enabled = false;
                 directoryName = folderBrowserDialog1.SelectedPath;
                 textBoxArtistName.Text = new DirectoryInfo(directoryName).Name;
                 Application.DoEvents();
@@ -33,19 +33,19 @@ namespace WavToMP3
 
                     foreach (string fileName in files)
                     {
-                        textBox1.AppendText("Processing " + fileName + "\n");
+                        textBoxProgress.AppendText("Processing " + fileName + "\n");
                         Application.DoEvents();
-                        WaveToMP3(fileName, fileName.Replace(".wav", ".mp3"), Int32.Parse(comboBox1.Text), textBoxArtistName.Text, textBoxAlbumName.Text, checkBoxID3Tags.Checked);
-                        if (checkBox1.Checked)
+                        WaveToMP3(fileName, fileName.Replace(".wav", ".mp3"), Int32.Parse(comboBoxBitRate.Text), textBoxArtistName.Text, textBoxAlbumName.Text, checkBoxID3Tags.Checked);
+                        if (checkBoxDeleteSourceFiles.Checked)
                         {
-                            textBox1.AppendText("Deleting " + fileName + "\n");
+                            textBoxProgress.AppendText("Deleting " + fileName + "\n");
                             System.IO.File.Delete(fileName);
                         }
                     }
 
-                    textBox1.AppendText("Finished.\n");
+                    textBoxProgress.AppendText("Finished.\n");
                 }
-                button1.Enabled = true;
+                buttonSelectDirectory.Enabled = true;
             }
         }
 

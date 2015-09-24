@@ -28,60 +28,60 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.button1 = new System.Windows.Forms.Button();
+            this.buttonSelectDirectory = new System.Windows.Forms.Button();
             this.folderBrowserDialog1 = new System.Windows.Forms.FolderBrowserDialog();
-            this.checkBox1 = new System.Windows.Forms.CheckBox();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.comboBox1 = new System.Windows.Forms.ComboBox();
+            this.checkBoxDeleteSourceFiles = new System.Windows.Forms.CheckBox();
+            this.textBoxProgress = new System.Windows.Forms.TextBox();
+            this.comboBoxBitRate = new System.Windows.Forms.ComboBox();
             this.label1 = new System.Windows.Forms.Label();
             this.textBoxArtistName = new System.Windows.Forms.TextBox();
-            this.label2 = new System.Windows.Forms.Label();
-            this.label3 = new System.Windows.Forms.Label();
+            this.labelArtistName = new System.Windows.Forms.Label();
+            this.labelAlbumName = new System.Windows.Forms.Label();
             this.textBoxAlbumName = new System.Windows.Forms.TextBox();
             this.checkBoxID3Tags = new System.Windows.Forms.CheckBox();
             this.SuspendLayout();
             // 
-            // button1
+            // buttonSelectDirectory
             // 
-            this.button1.Location = new System.Drawing.Point(60, 12);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(161, 23);
-            this.button1.TabIndex = 0;
-            this.button1.Text = "Select Directory";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.buttonSelectDirectory.Location = new System.Drawing.Point(60, 12);
+            this.buttonSelectDirectory.Name = "buttonSelectDirectory";
+            this.buttonSelectDirectory.Size = new System.Drawing.Size(161, 23);
+            this.buttonSelectDirectory.TabIndex = 0;
+            this.buttonSelectDirectory.Text = "Select Directory";
+            this.buttonSelectDirectory.UseVisualStyleBackColor = true;
+            this.buttonSelectDirectory.Click += new System.EventHandler(this.button1_Click);
             // 
-            // checkBox1
+            // checkBoxDeleteSourceFiles
             // 
-            this.checkBox1.AutoSize = true;
-            this.checkBox1.Location = new System.Drawing.Point(60, 41);
-            this.checkBox1.Name = "checkBox1";
-            this.checkBox1.Size = new System.Drawing.Size(124, 17);
-            this.checkBox1.TabIndex = 1;
-            this.checkBox1.Text = "Delete Source File(s)";
-            this.checkBox1.UseVisualStyleBackColor = true;
+            this.checkBoxDeleteSourceFiles.AutoSize = true;
+            this.checkBoxDeleteSourceFiles.Location = new System.Drawing.Point(60, 41);
+            this.checkBoxDeleteSourceFiles.Name = "checkBoxDeleteSourceFiles";
+            this.checkBoxDeleteSourceFiles.Size = new System.Drawing.Size(124, 17);
+            this.checkBoxDeleteSourceFiles.TabIndex = 1;
+            this.checkBoxDeleteSourceFiles.Text = "Delete Source File(s)";
+            this.checkBoxDeleteSourceFiles.UseVisualStyleBackColor = true;
             // 
-            // textBox1
+            // textBoxProgress
             // 
-            this.textBox1.Location = new System.Drawing.Point(60, 122);
-            this.textBox1.Multiline = true;
-            this.textBox1.Name = "textBox1";
-            this.textBox1.ReadOnly = true;
-            this.textBox1.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
-            this.textBox1.Size = new System.Drawing.Size(531, 362);
-            this.textBox1.TabIndex = 2;
+            this.textBoxProgress.Location = new System.Drawing.Point(60, 122);
+            this.textBoxProgress.Multiline = true;
+            this.textBoxProgress.Name = "textBoxProgress";
+            this.textBoxProgress.ReadOnly = true;
+            this.textBoxProgress.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
+            this.textBoxProgress.Size = new System.Drawing.Size(531, 362);
+            this.textBoxProgress.TabIndex = 2;
             // 
-            // comboBox1
+            // comboBoxBitRate
             // 
-            this.comboBox1.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Items.AddRange(new object[] {
+            this.comboBoxBitRate.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.comboBoxBitRate.FormattingEnabled = true;
+            this.comboBoxBitRate.Items.AddRange(new object[] {
             "128",
             "320"});
-            this.comboBox1.Location = new System.Drawing.Point(337, 12);
-            this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(121, 21);
-            this.comboBox1.TabIndex = 3;
+            this.comboBoxBitRate.Location = new System.Drawing.Point(337, 12);
+            this.comboBoxBitRate.Name = "comboBoxBitRate";
+            this.comboBoxBitRate.Size = new System.Drawing.Size(121, 21);
+            this.comboBoxBitRate.TabIndex = 3;
             // 
             // label1
             // 
@@ -99,23 +99,23 @@
             this.textBoxArtistName.Size = new System.Drawing.Size(187, 20);
             this.textBoxArtistName.TabIndex = 5;
             // 
-            // label2
+            // labelArtistName
             // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(60, 73);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(61, 13);
-            this.label2.TabIndex = 6;
-            this.label2.Text = "Artist Name";
+            this.labelArtistName.AutoSize = true;
+            this.labelArtistName.Location = new System.Drawing.Point(60, 73);
+            this.labelArtistName.Name = "labelArtistName";
+            this.labelArtistName.Size = new System.Drawing.Size(61, 13);
+            this.labelArtistName.TabIndex = 6;
+            this.labelArtistName.Text = "Artist Name";
             // 
-            // label3
+            // labelAlbumName
             // 
-            this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(60, 99);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(67, 13);
-            this.label3.TabIndex = 8;
-            this.label3.Text = "Album Name";
+            this.labelAlbumName.AutoSize = true;
+            this.labelAlbumName.Location = new System.Drawing.Point(60, 99);
+            this.labelAlbumName.Name = "labelAlbumName";
+            this.labelAlbumName.Size = new System.Drawing.Size(67, 13);
+            this.labelAlbumName.TabIndex = 8;
+            this.labelAlbumName.Text = "Album Name";
             // 
             // textBoxAlbumName
             // 
@@ -140,15 +140,15 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(634, 510);
             this.Controls.Add(this.checkBoxID3Tags);
-            this.Controls.Add(this.label3);
+            this.Controls.Add(this.labelAlbumName);
             this.Controls.Add(this.textBoxAlbumName);
-            this.Controls.Add(this.label2);
+            this.Controls.Add(this.labelArtistName);
             this.Controls.Add(this.textBoxArtistName);
             this.Controls.Add(this.label1);
-            this.Controls.Add(this.comboBox1);
-            this.Controls.Add(this.textBox1);
-            this.Controls.Add(this.checkBox1);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.comboBoxBitRate);
+            this.Controls.Add(this.textBoxProgress);
+            this.Controls.Add(this.checkBoxDeleteSourceFiles);
+            this.Controls.Add(this.buttonSelectDirectory);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
             this.Name = "Form1";
             this.Text = "Convert WAV to MP3";
@@ -159,15 +159,15 @@
 
         #endregion
 
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button buttonSelectDirectory;
         private System.Windows.Forms.FolderBrowserDialog folderBrowserDialog1;
-        private System.Windows.Forms.CheckBox checkBox1;
-        private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.ComboBox comboBox1;
+        private System.Windows.Forms.CheckBox checkBoxDeleteSourceFiles;
+        private System.Windows.Forms.TextBox textBoxProgress;
+        private System.Windows.Forms.ComboBox comboBoxBitRate;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.TextBox textBoxArtistName;
-        private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Label labelArtistName;
+        private System.Windows.Forms.Label labelAlbumName;
         private System.Windows.Forms.TextBox textBoxAlbumName;
         private System.Windows.Forms.CheckBox checkBoxID3Tags;
     }
