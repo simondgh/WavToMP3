@@ -1,0 +1,13 @@
+c:\users\simon\documents\visual studio 2013\Projects\WavToMP3\WavToMP3\bin\Debug\WavToMP3.exe.config
+c:\users\simon\documents\visual studio 2013\Projects\WavToMP3\WavToMP3\obj\Debug\WavToMP3.Form1.resources
+c:\users\simon\documents\visual studio 2013\Projects\WavToMP3\WavToMP3\obj\Debug\WavToMP3.Properties.Resources.resources
+c:\users\simon\documents\visual studio 2013\Projects\WavToMP3\WavToMP3\obj\Debug\WavToMP3.csproj.GenerateResource.Cache
+c:\users\simon\documents\visual studio 2013\Projects\WavToMP3\WavToMP3\bin\Debug\libmp3lame.32.dll
+c:\users\simon\documents\visual studio 2013\Projects\WavToMP3\WavToMP3\bin\Debug\libmp3lame.64.dll
+c:\users\simon\documents\visual studio 2013\Projects\WavToMP3\WavToMP3\bin\Debug\WavToMP3.exe
+c:\users\simon\documents\visual studio 2013\Projects\WavToMP3\WavToMP3\bin\Debug\WavToMP3.pdb
+c:\users\simon\documents\visual studio 2013\Projects\WavToMP3\WavToMP3\bin\Debug\NAudio.dll
+c:\users\simon\documents\visual studio 2013\Projects\WavToMP3\WavToMP3\bin\Debug\NAudio.Lame.dll
+c:\users\simon\documents\visual studio 2013\Projects\WavToMP3\WavToMP3\bin\Debug\NAudio.xml
+c:\users\simon\documents\visual studio 2013\Projects\WavToMP3\WavToMP3\obj\Debug\WavToMP3.exe
+c:\users\simon\documents\visual studio 2013\Projects\WavToMP3\WavToMP3\obj\Debug\WavToMP3.pdb

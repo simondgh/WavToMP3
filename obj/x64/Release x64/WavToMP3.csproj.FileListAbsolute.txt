@@ -1,0 +1,20 @@
+C:\Users\simon\Documents\Visual Studio 2013\Projects\WavToMP3\WavToMP3\bin\x64\Release x64\WavToMP3.exe.config
+C:\Users\simon\Documents\Visual Studio 2013\Projects\WavToMP3\WavToMP3\bin\x64\Release x64\libmp3lame.32.dll
+C:\Users\simon\Documents\Visual Studio 2013\Projects\WavToMP3\WavToMP3\bin\x64\Release x64\libmp3lame.64.dll
+C:\Users\simon\Documents\Visual Studio 2013\Projects\WavToMP3\WavToMP3\bin\x64\Release x64\WavToMP3.exe
+C:\Users\simon\Documents\Visual Studio 2013\Projects\WavToMP3\WavToMP3\bin\x64\Release x64\WavToMP3.pdb
+C:\Users\simon\Documents\Visual Studio 2013\Projects\WavToMP3\WavToMP3\bin\x64\Release x64\NAudio.dll
+C:\Users\simon\Documents\Visual Studio 2013\Projects\WavToMP3\WavToMP3\bin\x64\Release x64\NAudio.Lame.dll
+C:\Users\simon\Documents\Visual Studio 2013\Projects\WavToMP3\WavToMP3\bin\x64\Release x64\NAudio.xml
+C:\Users\simon\Documents\Visual Studio 2013\Projects\WavToMP3\WavToMP3\obj\x64\Release x64\WavToMP3.Form1.resources
+C:\Users\simon\Documents\Visual Studio 2013\Projects\WavToMP3\WavToMP3\obj\x64\Release x64\WavToMP3.Properties.Resources.resources
+C:\Users\simon\Documents\Visual Studio 2013\Projects\WavToMP3\WavToMP3\obj\x64\Release x64\WavToMP3.csproj.GenerateResource.Cache
+C:\Users\simon\Documents\Visual Studio 2013\Projects\WavToMP3\WavToMP3\obj\x64\Release x64\WavToMP3.exe
+C:\Users\simon\Documents\Visual Studio 2013\Projects\WavToMP3\WavToMP3\obj\x64\Release x64\WavToMP3.pdb
+C:\Users\simon\Documents\Visual Studio 2013\Projects\WavToMP3\WavToMP3\obj\x64\Release x64\WavToMP3.csprojResolveAssemblyReference.cache
+P:\Git\WavToMP3\WavToMP3\bin\x64\Release x64\WavToMP3.exe.config
+P:\Git\WavToMP3\WavToMP3\obj\x64\Release x64\WavToMP3.exe
+P:\Git\WavToMP3\WavToMP3\obj\x64\Release x64\WavToMP3.pdb
+P:\GitHub\WavToMP3\WavToMP3\bin\x64\Release x64\WavToMP3.exe.config
+P:\GitHub\WavToMP3\WavToMP3\obj\x64\Release x64\WavToMP3.exe
+P:\GitHub\WavToMP3\WavToMP3\obj\x64\Release x64\WavToMP3.pdb
