@@ -35,7 +35,7 @@ namespace WavToMP3
                     {
                         textBoxProgress.AppendText("Processing " + fileName + "\n");
                         Application.DoEvents();
-                        WaveToMP3(fileName, fileName.Replace(".wav", ".mp3"), Int32.Parse(comboBoxBitRate.Text), textBoxArtistName.Text, textBoxAlbumName.Text, checkBoxID3Tags.Checked);
+                        WavToMP3(fileName, fileName.Replace(".wav", ".mp3"), Int32.Parse(comboBoxBitRate.Text), textBoxArtistName.Text, textBoxAlbumName.Text, checkBoxID3Tags.Checked);
                         if (checkBoxDeleteSourceFiles.Checked)
                         {
                             textBoxProgress.AppendText("Deleting " + fileName + "\n");
@@ -60,7 +60,7 @@ namespace WavToMP3
         /// <param name="artist">Optional artist name</param>
         /// <param name="album">Optional album name</param>
         /// <param name="setID3Tags">Set ID3 tags</param>
-        public static void WaveToMP3(string waveFileName, string mp3FileName, int bitRate = 128, string artist = null, string album = null, bool setID3Tags = false)
+        public static void WavToMP3(string waveFileName, string mp3FileName, int bitRate = 128, string artist = null, string album = null, bool setID3Tags = false)
         {
             ID3TagData tags = new ID3TagData();
             if (setID3Tags)
