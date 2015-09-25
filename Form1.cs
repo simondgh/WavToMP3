@@ -2,6 +2,7 @@
 using System.Globalization;
 using System.IO;
 using System.Windows.Forms;
+using System.Resources;
 
 using NAudio.Lame;
 using NAudio.Wave;
@@ -20,13 +21,16 @@ namespace WavToMP3
         {            
             if (folderBrowserDialog1.ShowDialog() == DialogResult.OK)
             {
+                ResourceManager LocRM = new ResourceManager("WavToMP3.WinFormStrings", typeof(Form1).Assembly);
+                                
+
                 string directoryName;
 
                 buttonSelectDirectory.Enabled = false;
                 directoryName = folderBrowserDialog1.SelectedPath;
                 textBoxArtistName.Text = new DirectoryInfo(directoryName).Name;
                 Application.DoEvents();
-                DialogResult result = MessageBox.Show("Ready to start the conversion?", "Confirmation", MessageBoxButtons.YesNo);
+                DialogResult result = MessageBox.Show(LocRM.GetString("stringReadyToStartConversion"), LocRM.GetString("stringConfirmation"), MessageBoxButtons.YesNo);
                 bool success;
 
                 if (result == System.Windows.Forms.DialogResult.Yes)
@@ -35,22 +39,22 @@ namespace WavToMP3
 
                     foreach (string fileName in files)
                     {
-                        textBoxProgress.AppendText("Processing " + fileName + "\n");
+                        textBoxProgress.AppendText(LocRM.GetString("stringProcessing") + " " + fileName + "\n");
                         Application.DoEvents();
                         success = WavToMP3(fileName, fileName.Replace(".wav", ".mp3"), Int32.Parse(comboBoxBitRate.Text), textBoxArtistName.Text, textBoxAlbumName.Text, checkBoxID3Tags.Checked, listBoxGenre.SelectedIndex.ToString());
                         if (!success)
                         {
-                            textBoxProgress.AppendText("Couldn't convert " + fileName + "\n");
+                            textBoxProgress.AppendText(LocRM.GetString("stringCouldntConvert") + " " + fileName + "\n");
                         }
 
                         if (success && checkBoxDeleteSourceFiles.Checked)
                         {
-                            textBoxProgress.AppendText("Deleting " + fileName + "\n");
+                            textBoxProgress.AppendText(LocRM.GetString("stringDeleting") + " " + fileName + "\n");
                             System.IO.File.Delete(fileName);
                         }
                     }
 
-                    textBoxProgress.AppendText("Finished.\n");
+                    textBoxProgress.AppendText(LocRM.GetString("stringFinished") + "\n");
                 }
                 buttonSelectDirectory.Enabled = true;
             }
