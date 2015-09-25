@@ -117,6 +117,816 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="&gt;&gt;labelArtistName.Name" xml:space="preserve">
+    <value>labelArtistName</value>
+  </data>
+  <data name="buttonSelectDirectory.Text" xml:space="preserve">
+    <value>Select Directory</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="comboBoxBitRate.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="listBoxGenre.Items14" xml:space="preserve">
+    <value>14 - R&amp;B</value>
+  </data>
+  <data name="listBoxGenre.Items76" xml:space="preserve">
+    <value>76 - Retro</value>
+  </data>
+  <data name="listBoxGenre.Items43" xml:space="preserve">
+    <value>43 - Punk</value>
+  </data>
+  <data name="listBoxGenre.Items81" xml:space="preserve">
+    <value>81 - Folk-Rock</value>
+  </data>
+  <data name="listBoxGenre.Items103" xml:space="preserve">
+    <value>103 - Opera</value>
+  </data>
+  <data name="listBoxGenre.Items95" xml:space="preserve">
+    <value>95 - Slow Rock</value>
+  </data>
+  <data name="listBoxGenre.Items126" xml:space="preserve">
+    <value>126 - Goa</value>
+  </data>
+  <data name="listBoxGenre.Items127" xml:space="preserve">
+    <value>127 - Drum &amp; Bass</value>
+  </data>
+  <data name="listBoxGenre.Items124" xml:space="preserve">
+    <value>124 - Euro-House</value>
+  </data>
+  <data name="listBoxGenre.Items125" xml:space="preserve">
+    <value>125 - Dance Hall</value>
+  </data>
+  <data name="labelAlbumName.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;labelArtistName.Parent" xml:space="preserve">
+    <value>groupBoxID3</value>
+  </data>
+  <data name="listBoxGenre.Items129" xml:space="preserve">
+    <value>129 - Hardcore</value>
+  </data>
+  <data name="&gt;&gt;labelGenre.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="listBoxGenre.Items41" xml:space="preserve">
+    <value>41 - Bass</value>
+  </data>
+  <data name="listBoxGenre.Items24" xml:space="preserve">
+    <value>24 - Soundtrack</value>
+  </data>
+  <data name="listBoxGenre.Items60" xml:space="preserve">
+    <value>60 - Top 40</value>
+  </data>
+  <data name="labelArtistName.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="listBoxGenre.Items40" xml:space="preserve">
+    <value>40 - Alternative Rock</value>
+  </data>
+  <data name="listBoxGenre.Items69" xml:space="preserve">
+    <value>69 - Showtunes</value>
+  </data>
+  <data name="textBoxAlbumName.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="listBoxGenre.Items145" xml:space="preserve">
+    <value>145 - Anime</value>
+  </data>
+  <data name="checkBoxID3Tags.Text" xml:space="preserve">
+    <value>Set ID3 Tags</value>
+  </data>
+  <data name="&gt;&gt;label1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxArtistName.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="listBoxGenre.Items45" xml:space="preserve">
+    <value>45 - Meditative</value>
+  </data>
+  <data name="labelArtistName.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="labelGenre.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="listBoxGenre.Items31" xml:space="preserve">
+    <value>31 - Trance</value>
+  </data>
+  <data name="labelGenre.TabIndex" type="System.Int32, mscorlib">
+    <value>16</value>
+  </data>
+  <data name="listBoxGenre.Items87" xml:space="preserve">
+    <value>87 - Revival</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 13</value>
+  </data>
+  <data name="buttonSelectDirectory.Location" type="System.Drawing.Point, System.Drawing">
+    <value>60, 12</value>
+  </data>
+  <data name="listBoxGenre.Items59" xml:space="preserve">
+    <value>59 - Gangsta</value>
+  </data>
+  <data name="listBoxGenre.Items138" xml:space="preserve">
+    <value>138 - Black Metal</value>
+  </data>
+  <data name="listBoxGenre.Items5" xml:space="preserve">
+    <value>5  - Funk</value>
+  </data>
+  <data name="listBoxGenre.Items108" xml:space="preserve">
+    <value>108 - Primus</value>
+  </data>
+  <data name="listBoxGenre.Items109" xml:space="preserve">
+    <value>109 - Porn Groove</value>
+  </data>
+  <data name="listBoxGenre.Items2" xml:space="preserve">
+    <value>2  - Country</value>
+  </data>
+  <data name="checkBoxID3Tags.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;labelAlbumName.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="listBoxGenre.Items61" xml:space="preserve">
+    <value>61 - Christian Rap</value>
+  </data>
+  <data name="listBoxGenre.Items56" xml:space="preserve">
+    <value>56 - Southern Rock</value>
+  </data>
+  <data name="listBoxGenre.Items71" xml:space="preserve">
+    <value>71 - Lo-Fi</value>
+  </data>
+  <data name="listBoxGenre.Items100" xml:space="preserve">
+    <value>100 - Humour</value>
+  </data>
+  <data name="listBoxGenre.Items101" xml:space="preserve">
+    <value>101 - Speech</value>
+  </data>
+  <data name="&gt;&gt;buttonSelectDirectory.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="listBoxGenre.Items107" xml:space="preserve">
+    <value>107 - Booty Bass</value>
+  </data>
+  <data name="listBoxGenre.Items104" xml:space="preserve">
+    <value>104 - Chamber Music</value>
+  </data>
+  <data name="listBoxGenre.Items13" xml:space="preserve">
+    <value>13 - Pop</value>
+  </data>
+  <data name="labelGenre.Location" type="System.Drawing.Point, System.Drawing">
+    <value>303, 41</value>
+  </data>
+  <data name="listBoxGenre.Items90" xml:space="preserve">
+    <value>90 - Avantgarde</value>
+  </data>
+  <data name="listBoxGenre.Items112" xml:space="preserve">
+    <value>112 - Club</value>
+  </data>
+  <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;label1.Name" xml:space="preserve">
+    <value>label1</value>
+  </data>
+  <data name="listBoxGenre.Items66" xml:space="preserve">
+    <value>66 - New Wave</value>
+  </data>
+  <data name="&gt;&gt;checkBoxID3Tags.Parent" xml:space="preserve">
+    <value>groupBoxID3</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>824, 542</value>
+  </data>
+  <data name="listBoxGenre.Items23" xml:space="preserve">
+    <value>23 - Pranks</value>
+  </data>
+  <data name="buttonSelectDirectory.Size" type="System.Drawing.Size, System.Drawing">
+    <value>161, 23</value>
+  </data>
+  <data name="listBoxGenre.Items135" xml:space="preserve">
+    <value>135 - Beat</value>
+  </data>
+  <data name="listBoxGenre.Items35" xml:space="preserve">
+    <value>35 - House</value>
+  </data>
+  <data name="textBoxArtistName.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="listBoxGenre.Items122" xml:space="preserve">
+    <value>122 - Drum Solo</value>
+  </data>
+  <data name="labelGenre.Text" xml:space="preserve">
+    <value>Genre</value>
+  </data>
+  <data name="textBoxAlbumName.Size" type="System.Drawing.Size, System.Drawing">
+    <value>187, 20</value>
+  </data>
+  <data name="&gt;&gt;comboBoxBitRate.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;groupBoxID3.Name" xml:space="preserve">
+    <value>groupBoxID3</value>
+  </data>
+  <data name="listBoxGenre.Items74" xml:space="preserve">
+    <value>74 - Acid Jazz</value>
+  </data>
+  <data name="listBoxGenre.Items73" xml:space="preserve">
+    <value>73 - Acid Punk</value>
+  </data>
+  <data name="listBoxGenre.Items85" xml:space="preserve">
+    <value>85 - Bebob</value>
+  </data>
+  <data name="listBoxGenre.Items77" xml:space="preserve">
+    <value>77 - Musical</value>
+  </data>
+  <data name="&gt;&gt;textBoxAlbumName.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;labelArtistName.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="listBoxGenre.Items117" xml:space="preserve">
+    <value>117 - Power Ballad</value>
+  </data>
+  <data name="listBoxGenre.Size" type="System.Drawing.Size, System.Drawing">
+    <value>136, 56</value>
+  </data>
+  <data name="listBoxGenre.Items18" xml:space="preserve">
+    <value>18 - Techno</value>
+  </data>
+  <data name="listBoxGenre.Items147" xml:space="preserve">
+    <value>147 - Synthpop</value>
+  </data>
+  <data name="listBoxGenre.Items54" xml:space="preserve">
+    <value>54 - Eurodance</value>
+  </data>
+  <data name="listBoxGenre.Items34" xml:space="preserve">
+    <value>34 - Acid</value>
+  </data>
+  <data name="listBoxGenre.Items86" xml:space="preserve">
+    <value>86 - Latin</value>
+  </data>
+  <data name="listBoxGenre.Items3" xml:space="preserve">
+    <value>3  - Dance</value>
+  </data>
+  <data name="listBoxGenre.Items11" xml:space="preserve">
+    <value>11 - Oldies</value>
+  </data>
+  <data name="&gt;&gt;label1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="groupBoxID3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>531, 100</value>
+  </data>
+  <data name="listBoxGenre.Items1" xml:space="preserve">
+    <value>1  - Classic Rock</value>
+  </data>
+  <data name="listBoxGenre.Items17" xml:space="preserve">
+    <value>17 - Rock</value>
+  </data>
+  <data name="listBoxGenre.Items39" xml:space="preserve">
+    <value>39 - Noise</value>
+  </data>
+  <data name="listBoxGenre.Items136" xml:space="preserve">
+    <value>136 - Christian Gangsta Rap</value>
+  </data>
+  <data name="&gt;&gt;labelAlbumName.Name" xml:space="preserve">
+    <value>labelAlbumName</value>
+  </data>
+  <data name="&gt;&gt;labelAlbumName.Parent" xml:space="preserve">
+    <value>groupBoxID3</value>
+  </data>
+  <data name="listBoxGenre.Items143" xml:space="preserve">
+    <value>143 - Salsa</value>
+  </data>
+  <data name="listBoxGenre.Items21" xml:space="preserve">
+    <value>21 - Ska</value>
+  </data>
+  <data name="&gt;&gt;comboBoxBitRate.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;listBoxGenre.Parent" xml:space="preserve">
+    <value>groupBoxID3</value>
+  </data>
+  <data name="&gt;&gt;listBoxGenre.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ListBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>6, 13</value>
+  </data>
+  <data name="listBoxGenre.Items49" xml:space="preserve">
+    <value>49 - Gothic</value>
+  </data>
+  <data name="&gt;&gt;textBoxProgress.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="checkBoxDeleteSourceFiles.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="label1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>360, 14</value>
+  </data>
+  <data name="listBoxGenre.Items46" xml:space="preserve">
+    <value>46 - Instrumental Pop</value>
+  </data>
+  <data name="checkBoxDeleteSourceFiles.Size" type="System.Drawing.Size, System.Drawing">
+    <value>124, 17</value>
+  </data>
+  <data name="listBoxGenre.Items98" xml:space="preserve">
+    <value>98 - Easy Listening</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>Form1</value>
+  </data>
+  <data name="&gt;&gt;groupBoxID3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="listBoxGenre.Items32" xml:space="preserve">
+    <value>32 - Classical</value>
+  </data>
+  <data name="listBoxGenre.Items70" xml:space="preserve">
+    <value>70 - Trailer</value>
+  </data>
+  <data name="listBoxGenre.Items148" xml:space="preserve">
+    <value>148  - Unknown</value>
+  </data>
+  <data name="listBoxGenre.Items9" xml:space="preserve">
+    <value>9  - Metal</value>
+  </data>
+  <data name="&gt;&gt;textBoxAlbumName.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="listBoxGenre.Items142" xml:space="preserve">
+    <value>142 - Merengue</value>
+  </data>
+  <data name="&gt;&gt;labelGenre.Parent" xml:space="preserve">
+    <value>groupBoxID3</value>
+  </data>
+  <data name="listBoxGenre.Items140" xml:space="preserve">
+    <value>140 - Contemporary Christian</value>
+  </data>
+  <data name="&gt;&gt;textBoxAlbumName.Parent" xml:space="preserve">
+    <value>groupBoxID3</value>
+  </data>
+  <data name="listBoxGenre.Items146" xml:space="preserve">
+    <value>146 - JPop</value>
+  </data>
+  <data name="listBoxGenre.Items106" xml:space="preserve">
+    <value>106 - Symphony</value>
+  </data>
+  <data name="listBoxGenre.Items144" xml:space="preserve">
+    <value>144 - Thrash Metal</value>
+  </data>
+  <data name="listBoxGenre.Items42" xml:space="preserve">
+    <value>42 - Soul</value>
+  </data>
+  <data name="checkBoxID3Tags.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 16</value>
+  </data>
+  <data name="listBoxGenre.Items53" xml:space="preserve">
+    <value>53 - Pop-Folk</value>
+  </data>
+  <data name="&gt;&gt;groupBoxID3.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="listBoxGenre.Items94" xml:space="preserve">
+    <value>94 - Symphonic Rock</value>
+  </data>
+  <data name="listBoxGenre.Items123" xml:space="preserve">
+    <value>123 - Acapella</value>
+  </data>
+  <data name="textBoxArtistName.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="listBoxGenre.TabIndex" type="System.Int32, mscorlib">
+    <value>17</value>
+  </data>
+  <data name="listBoxGenre.Items50" xml:space="preserve">
+    <value>50 - Darkwave</value>
+  </data>
+  <data name="&gt;&gt;labelAlbumName.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;labelGenre.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="listBoxGenre.Items27" xml:space="preserve">
+    <value>27 - Trip-Hop</value>
+  </data>
+  <data name="&gt;&gt;textBoxAlbumName.Name" xml:space="preserve">
+    <value>textBoxAlbumName</value>
+  </data>
+  <data name="listBoxGenre.Items63" xml:space="preserve">
+    <value>63 - Jungle</value>
+  </data>
+  <data name="checkBoxDeleteSourceFiles.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="listBoxGenre.Items78" xml:space="preserve">
+    <value>78 - Rock &amp; Roll</value>
+  </data>
+  <data name="&gt;&gt;buttonSelectDirectory.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="listBoxGenre.Location" type="System.Drawing.Point, System.Drawing">
+    <value>345, 35</value>
+  </data>
+  <data name="&gt;&gt;textBoxProgress.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="textBoxProgress.Size" type="System.Drawing.Size, System.Drawing">
+    <value>531, 362</value>
+  </data>
+  <data name="listBoxGenre.Items96" xml:space="preserve">
+    <value>96 - Big Band</value>
+  </data>
+  <data name="&gt;&gt;buttonSelectDirectory.Name" xml:space="preserve">
+    <value>buttonSelectDirectory</value>
+  </data>
+  <data name="listBoxGenre.Items19" xml:space="preserve">
+    <value>19 - Industrial</value>
+  </data>
+  <data name="listBoxGenre.Items44" xml:space="preserve">
+    <value>44 - Space</value>
+  </data>
+  <data name="listBoxGenre.Items132" xml:space="preserve">
+    <value>132 - BritPop</value>
+  </data>
+  <data name="textBoxAlbumName.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="listBoxGenre.Items89" xml:space="preserve">
+    <value>89 - Bluegrass</value>
+  </data>
+  <data name="listBoxGenre.Items30" xml:space="preserve">
+    <value>30 - Fusion</value>
+  </data>
+  <data name="&gt;&gt;folderBrowserDialog1.Name" xml:space="preserve">
+    <value>folderBrowserDialog1</value>
+  </data>
+  <data name="checkBoxDeleteSourceFiles.Location" type="System.Drawing.Point, System.Drawing">
+    <value>60, 41</value>
+  </data>
+  <data name="listBoxGenre.Items92" xml:space="preserve">
+    <value>92 - Progressive Rock</value>
+  </data>
+  <data name="&gt;&gt;listBoxGenre.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="listBoxGenre.Items29" xml:space="preserve">
+    <value>29 - Jazz+Funk</value>
+  </data>
+  <data name="checkBoxID3Tags.Size" type="System.Drawing.Size, System.Drawing">
+    <value>89, 17</value>
+  </data>
+  <data name="buttonSelectDirectory.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="listBoxGenre.Items139" xml:space="preserve">
+    <value>139 - Crossover</value>
+  </data>
+  <data name="listBoxGenre.Items93" xml:space="preserve">
+    <value>93 - Psychedelic Rock</value>
+  </data>
+  <data name="&gt;&gt;checkBoxID3Tags.Name" xml:space="preserve">
+    <value>checkBoxID3Tags</value>
+  </data>
+  <data name="listBoxGenre.Items75" xml:space="preserve">
+    <value>75 - Polka</value>
+  </data>
+  <data name="listBoxGenre.Items51" xml:space="preserve">
+    <value>51 - Techno-Industrial</value>
+  </data>
+  <data name="listBoxGenre.Items133" xml:space="preserve">
+    <value>133 - Negerpunk</value>
+  </data>
+  <data name="listBoxGenre.Items130" xml:space="preserve">
+    <value>130 - Terror</value>
+  </data>
+  <data name="listBoxGenre.Items131" xml:space="preserve">
+    <value>131 - Indie</value>
+  </data>
+  <data name="listBoxGenre.Items37" xml:space="preserve">
+    <value>37 - Sound Clip</value>
+  </data>
+  <data name="listBoxGenre.Items137" xml:space="preserve">
+    <value>137 - Heavy Metal</value>
+  </data>
+  <data name="listBoxGenre.Items134" xml:space="preserve">
+    <value>134 - Polsk Punk</value>
+  </data>
+  <data name="listBoxGenre.Items12" xml:space="preserve">
+    <value>12 - Other</value>
+  </data>
+  <data name="&gt;&gt;textBoxArtistName.Parent" xml:space="preserve">
+    <value>groupBoxID3</value>
+  </data>
+  <data name="listBoxGenre.Items82" xml:space="preserve">
+    <value>82 - National Folk</value>
+  </data>
+  <data name="listBoxGenre.Items25" xml:space="preserve">
+    <value>25 - Euro-Techno</value>
+  </data>
+  <data name="label1.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="listBoxGenre.Items6" xml:space="preserve">
+    <value>6  - Grunge</value>
+  </data>
+  <data name="labelGenre.Size" type="System.Drawing.Size, System.Drawing">
+    <value>36, 13</value>
+  </data>
+  <data name="&gt;&gt;groupBoxID3.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;checkBoxDeleteSourceFiles.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="listBoxGenre.Items22" xml:space="preserve">
+    <value>22 - Death Metal</value>
+  </data>
+  <data name="textBoxProgress.Multiline" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="listBoxGenre.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="groupBoxID3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>60, 64</value>
+  </data>
+  <data name="&gt;&gt;comboBoxBitRate.Name" xml:space="preserve">
+    <value>comboBoxBitRate</value>
+  </data>
+  <data name="listBoxGenre.Items7" xml:space="preserve">
+    <value>7  - Hip-Hop</value>
+  </data>
+  <data name="listBoxGenre.Items80" xml:space="preserve">
+    <value>80 - Folk</value>
+  </data>
+  <data name="checkBoxID3Tags.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="listBoxGenre.Items47" xml:space="preserve">
+    <value>47 - Instrumental Rock</value>
+  </data>
+  <data name="listBoxGenre.Items8" xml:space="preserve">
+    <value>8  - Jazz</value>
+  </data>
+  <data name="listBoxGenre.Items36" xml:space="preserve">
+    <value>36 - Game</value>
+  </data>
+  <data name="listBoxGenre.Items72" xml:space="preserve">
+    <value>72 - Tribal</value>
+  </data>
+  <data name="listBoxGenre.Items84" xml:space="preserve">
+    <value>84 - Fast Fusion</value>
+  </data>
+  <data name="listBoxGenre.Items15" xml:space="preserve">
+    <value>15 - Rap</value>
+  </data>
+  <data name="labelArtistName.Size" type="System.Drawing.Size, System.Drawing">
+    <value>61, 13</value>
+  </data>
+  <data name="listBoxGenre.Items120" xml:space="preserve">
+    <value>120 - Duet</value>
+  </data>
+  <data name="listBoxGenre.Items118" xml:space="preserve">
+    <value>118 - Rhythmic Soul</value>
+  </data>
+  <data name="listBoxGenre.Items119" xml:space="preserve">
+    <value>119 - Freestyle</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="comboBoxBitRate.Location" type="System.Drawing.Point, System.Drawing">
+    <value>420, 14</value>
+  </data>
+  <data name="&gt;&gt;textBoxArtistName.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="listBoxGenre.Items57" xml:space="preserve">
+    <value>57 - Comedy</value>
+  </data>
+  <data name="listBoxGenre.Items113" xml:space="preserve">
+    <value>113 - Tango</value>
+  </data>
+  <data name="listBoxGenre.Items110" xml:space="preserve">
+    <value>110 - Satire</value>
+  </data>
+  <data name="listBoxGenre.Items111" xml:space="preserve">
+    <value>111 - Slow Jam</value>
+  </data>
+  <data name="listBoxGenre.Items116" xml:space="preserve">
+    <value>116 - Ballad</value>
+  </data>
+  <data name="comboBoxBitRate.Items1" xml:space="preserve">
+    <value>320</value>
+  </data>
+  <data name="listBoxGenre.Items114" xml:space="preserve">
+    <value>114 - Samba</value>
+  </data>
+  <data name="listBoxGenre.Items10" xml:space="preserve">
+    <value>10 - New Age</value>
+  </data>
+  <data name="&gt;&gt;textBoxProgress.Name" xml:space="preserve">
+    <value>textBoxProgress</value>
+  </data>
+  <data name="listBoxGenre.Items68" xml:space="preserve">
+    <value>68 - Rave</value>
+  </data>
+  <data name="&gt;&gt;checkBoxDeleteSourceFiles.Name" xml:space="preserve">
+    <value>checkBoxDeleteSourceFiles</value>
+  </data>
+  <data name="listBoxGenre.Items91" xml:space="preserve">
+    <value>91 - Gothic Rock</value>
+  </data>
+  <data name="listBoxGenre.Items38" xml:space="preserve">
+    <value>38 - Gospel</value>
+  </data>
+  <data name="listBoxGenre.Items67" xml:space="preserve">
+    <value>67 - Psychadelic</value>
+  </data>
+  <data name="&gt;&gt;textBoxProgress.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="textBoxAlbumName.Location" type="System.Drawing.Point, System.Drawing">
+    <value>84, 65</value>
+  </data>
+  <data name="&gt;&gt;buttonSelectDirectory.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="listBoxGenre.Items20" xml:space="preserve">
+    <value>20 - Alternative</value>
+  </data>
+  <data name="&gt;&gt;comboBoxBitRate.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="comboBoxBitRate.Size" type="System.Drawing.Size, System.Drawing">
+    <value>121, 21</value>
+  </data>
+  <data name="labelAlbumName.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="checkBoxDeleteSourceFiles.Text" xml:space="preserve">
+    <value>Delete Source File(s)</value>
+  </data>
+  <data name="listBoxGenre.Items48" xml:space="preserve">
+    <value>48 - Ethnic</value>
+  </data>
+  <data name="listBoxGenre.Items128" xml:space="preserve">
+    <value>128 - Club - House</value>
+  </data>
+  <data name="label1.Text" xml:space="preserve">
+    <value>Bit Rate</value>
+  </data>
+  <data name="&gt;&gt;textBoxArtistName.Name" xml:space="preserve">
+    <value>textBoxArtistName</value>
+  </data>
+  <data name="listBoxGenre.Items141" xml:space="preserve">
+    <value>141 - Christian Rock</value>
+  </data>
+  <data name="listBoxGenre.Items4" xml:space="preserve">
+    <value>4  - Disco</value>
+  </data>
+  <data name="listBoxGenre.Items79" xml:space="preserve">
+    <value>79 - Hard Rock</value>
+  </data>
+  <data name="groupBoxID3.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="listBoxGenre.Items64" xml:space="preserve">
+    <value>64 - Native US</value>
+  </data>
+  <data name="listBoxGenre.Items83" xml:space="preserve">
+    <value>83 - Swing</value>
+  </data>
+  <data name="listBoxGenre.Items102" xml:space="preserve">
+    <value>102 - Chanson</value>
+  </data>
+  <data name="listBoxGenre.Items105" xml:space="preserve">
+    <value>105 - Sonata</value>
+  </data>
+  <data name="listBoxGenre.Items55" xml:space="preserve">
+    <value>55 - Dream</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Convert WAV to MP3</value>
+  </data>
+  <data name="&gt;&gt;checkBoxID3Tags.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="listBoxGenre.Items16" xml:space="preserve">
+    <value>16 - Reggae</value>
+  </data>
+  <data name="listBoxGenre.Items52" xml:space="preserve">
+    <value>52 - Electronic</value>
+  </data>
+  <data name="&gt;&gt;labelGenre.Name" xml:space="preserve">
+    <value>labelGenre</value>
+  </data>
+  <data name="listBoxGenre.Items97" xml:space="preserve">
+    <value>97 - Chorus</value>
+  </data>
+  <data name="&gt;&gt;checkBoxID3Tags.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="textBoxProgress.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="comboBoxBitRate.Items" xml:space="preserve">
+    <value>128</value>
+  </data>
+  <data name="listBoxGenre.Items65" xml:space="preserve">
+    <value>65 - Cabaret</value>
+  </data>
+  <data name="listBoxGenre.Items99" xml:space="preserve">
+    <value>99 - Acoustic</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="textBoxProgress.ScrollBars" type="System.Windows.Forms.ScrollBars, System.Windows.Forms">
+    <value>Vertical</value>
+  </data>
+  <data name="labelAlbumName.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 65</value>
+  </data>
+  <data name="listBoxGenre.Items26" xml:space="preserve">
+    <value>26 - Ambient</value>
+  </data>
+  <data name="listBoxGenre.Items62" xml:space="preserve">
+    <value>62 - Pop/Funk</value>
+  </data>
+  <data name="&gt;&gt;listBoxGenre.Name" xml:space="preserve">
+    <value>listBoxGenre</value>
+  </data>
+  <data name="&gt;&gt;labelArtistName.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="labelAlbumName.Text" xml:space="preserve">
+    <value>Album Name</value>
+  </data>
+  <data name="listBoxGenre.Items121" xml:space="preserve">
+    <value>121 - Punk Rock</value>
+  </data>
+  <data name="labelArtistName.Text" xml:space="preserve">
+    <value>Artist Name</value>
+  </data>
+  <data name="listBoxGenre.Items115" xml:space="preserve">
+    <value>115 - Folklore</value>
+  </data>
+  <data name="labelArtistName.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 42</value>
+  </data>
+  <data name="&gt;&gt;checkBoxDeleteSourceFiles.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="textBoxArtistName.Location" type="System.Drawing.Point, System.Drawing">
+    <value>84, 39</value>
+  </data>
+  <data name="listBoxGenre.Items88" xml:space="preserve">
+    <value>88 - Celtic</value>
+  </data>
+  <data name="labelAlbumName.Size" type="System.Drawing.Size, System.Drawing">
+    <value>67, 13</value>
+  </data>
+  <data name="listBoxGenre.Items" xml:space="preserve">
+    <value>0  - Blues</value>
+  </data>
+  <data name="listBoxGenre.Items33" xml:space="preserve">
+    <value>33 - Instrumental</value>
+  </data>
+  <data name="listBoxGenre.Items58" xml:space="preserve">
+    <value>58 - Cult</value>
+  </data>
+  <data name="&gt;&gt;folderBrowserDialog1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.FolderBrowserDialog, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="textBoxProgress.Location" type="System.Drawing.Point, System.Drawing">
+    <value>60, 168</value>
+  </data>
+  <data name="&gt;&gt;checkBoxDeleteSourceFiles.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="label1.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="textBoxArtistName.Size" type="System.Drawing.Size, System.Drawing">
+    <value>187, 20</value>
+  </data>
+  <data name="listBoxGenre.Items28" xml:space="preserve">
+    <value>28 - Vocal</value>
+  </data>
+  <metadata name="$this.Language" type="System.Globalization.CultureInfo, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>en-US</value>
+  </metadata>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
   <metadata name="folderBrowserDialog1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 17</value>
   </metadata>
