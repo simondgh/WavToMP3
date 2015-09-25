@@ -92,6 +92,7 @@ namespace WavToMP3
             {
                 result = false;
             }
+
             return result;
         }
 
